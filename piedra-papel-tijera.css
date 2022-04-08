@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+background-color: rgb(179, 242, 242);
+font-size: 5cm;
+background-image: url(https://w7.pngwing.com/pngs/778/223/png-transparent-vs-match-vs-game-pk-thumbnail.png);
+}
+
+body {
+
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 2cm;
+    
+}
