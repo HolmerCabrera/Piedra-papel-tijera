@@ -1,3 +1,10 @@
 # Piedra-papel-tijera
-Juego de piedra papel o tijera. Ejercicio realizado con HTML, CSS, JavaScript 
-[esta es mi pagina](https://holmercabrera.github.io/Piedra-papel-tijera/)
+
+
+## Juego de piedra papel o tijera. Ejercicio realizado con HTML, CSS, JavaScript 
+
+
+> En este ejercicio podran jugar piedra papel o tijera contra la maquian 
+
+
+Puedes ver el ejercicio en el siguiente [enlace](https://holmercabrera.github.io/Piedra-papel-tijera/)
